@@ -1,0 +1,59 @@
+.contenedorCards{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10%;
+}
+
+.cartaCuppon{
+    margin-bottom: 20px;
+    margin-top: 18px;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.robotoLight20{
+    font-size: 20px;
+    font-weight: 300;
+    
+}
+
+.robotoLight16{
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.robotoMedium21{
+    font-size: 21px;
+    font-weight: 500;
+    color: white;
+}
+
+.precioAntiguo{
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    align-items:end;
+}
+
+.precioOferta{
+    font-size: 20px;
+    font-weight: 500;
+    color: #28A745;
+    margin-left: 150px;
+}
+
+.botonMargen{
+    margin-bottom: 29px;
+    margin-top: 24px;
+}
+
+.margenContenedor{
+    margin-top: 25px;
+}
+
+.peleador{
+    width: 90%;
+    margin-left: 5%;
+}
